@@ -1,1 +1,2 @@
 # -Python-Real-time-attendance-system-using-facial-recognition-technology
+This project aims to develop a real-time attendance system that leverages facial recognition technology to automate and streamline the process of recording attendance in educational institutions, workplaces, and events. Traditional attendance methods, such as manual roll calls or card swipes, are often time-consuming, prone to errors, and susceptible to proxy attendance. Our system addresses these challenges by providing a fast, accurate, and contactless solution.
